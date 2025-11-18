@@ -43,7 +43,7 @@ def stream_markup_timer(_, chat_id, played, dur):
     ]
     
     ba = progress_bars[min(anon // 10, 9)]
-##bar of wynk---------------------------------------
+##bar of Shraddha---------------------------------------
     
     
     
@@ -61,13 +61,13 @@ def stream_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text="20s ▷", callback_data=f"seek {chat_id} 20"),
         ],
         [
-            InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),       InlineKeyboardButton(
-                text="𝑨𝒅𝒅 𝑴𝒆", url=f"https://t.me/{app.username}?startgroup=true"
+            InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="ᴄʟᴏꜱᴇ"),       InlineKeyboardButton(
+                text="ʌᴅᴅ ɪᴛ +", url=f"https://t.me/{app.username}?startgroup=true"
             ),   
         ],
         
         # [
-        #     InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"), 
+        #     InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="ᴄʟᴏꜱᴇ"), 
         # ],
     ]
     return buttons
@@ -77,7 +77,7 @@ def stream_markup_timer(_, chat_id, played, dur):
 
 def stream_markup(_, chat_id):
     buttons = [
-        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="ᴄʟᴏꜱᴇ")],
     ]
     return buttons
 
