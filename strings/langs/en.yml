@@ -169,15 +169,15 @@ ping_2 : "<blockquote expandable> 𝗣𝗶𝗻𝗴𝗶𝗻𝗴 𝗧𝗲𝘀𝘁 
 queue_2 : "𝖰𝗎𝖾𝗎𝖾 𝖤𝗆𝗉𝗍𝗒 ."
 queue_3 : "<u>» 𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾 𝖳𝗈 𝖢𝗁𝖾𝖼𝗄 𝖳𝗁𝖾 𝖫𝗂𝗌𝗍 𝖮𝖿 𝖳𝗁𝖾 𝖰𝗎𝖾𝗎𝖾𝖽 𝖳𝗋𝖺𝖼𝗄𝗌 :</u> <a href={0}>𝖧𝖾𝗋𝖾</a>"
 #queue_4 : "<blockquote expandable>➠<b>𝖠𝖽𝖽𝖾𝖽 𝖳𝗈 𝖰𝗎𝖾𝗎𝖾 𝖠𝗍 #{0}</blockquote>\n\n<blockquote expandable>➠ 𝖳𝗂𝗍𝗅𝖾 :</b> {1}\n<b>➠ 𝖣𝗎𝗋𝖺𝗍𝗂𝗈𝗇 :</b> {2} 𝖬𝗂𝗇𝗎𝗍𝖾𝗌\n<b>➠ 𝖱𝖾𝗊𝗎𝖾𝗌𝗍𝖾𝖽 𝖡𝗒 :</b> {3}</blockquote>"
-queue_4 : "<blockquote expandable><b>▣  𝖠𝖽𝖽𝖾𝖽 𝖳𝗈 𝖰𝗎𝖾𝗎𝖾 ➠ {0}</b></blockquote>\n<blockquote expandable>✯ Title : {1}\n\n✯ Requested By : {3}\n✯ Duration: {2} minutes</blockquote>"
+queue_4 : "<blockquote expandable><b>▣  𝖠𝖽𝖽𝖾𝖽 𝖳𝗈 𝖰𝗎𝖾𝗎𝖾 ➠ {0}</b></blockquote>\n<blockquote expandable>▣  Title : {1}\n\n▣ Requested By : {3}\n✯ Duration: {2} minutes</blockquote>"
 queue_5 : "𝖳𝗁𝖾𝗋𝖾'𝗌 𝖮𝗇𝗅𝗒 𝖮𝗇𝖾 𝖰𝗎𝖾𝗎𝖾𝖽 𝖳𝗋𝖺𝖼𝗄 𝖨𝗇 𝖯𝗅𝖺𝗒𝗅𝗂𝗌𝗍 .\n\n𝖠𝖽𝖽 𝖬𝗈𝗋𝖾 𝖳𝗋𝖺𝖼𝗄𝗌 𝖳𝗈 𝖢𝗁𝖾𝖼𝗄 𝖫𝗂𝗌𝗍 ."
 queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> 𝖴𝗇𝗄𝗇𝗈𝗐𝗇 𝖣𝗎𝗋𝖺𝗍𝗂𝗈𝗇 𝖲𝗍𝗋𝖾𝖺𝗆\n\n𝖢𝗅𝗂𝖼𝗄 𝖮𝗇 𝖳𝗁𝖾 𝖡𝗎𝗍𝗍𝗈𝗇 𝖡𝖾𝗅𝗈𝗐 𝖳𝗈 𝖦𝖾𝗍 𝖶𝗁𝗈𝗅𝖾 𝖰𝗎𝖾𝗎𝖾𝖽 𝖫𝗂𝗌𝗍 ."
 queue_7 : "\n𝖢𝗅𝗂𝖼𝗄 𝖮𝗇 𝖳𝗁𝖾 𝖡𝗎𝗍𝗍𝗈𝗇 𝖡𝖾𝗅𝗈𝗐 𝖳𝗈 𝖦𝖾𝗍 𝖶𝗁𝗈𝗅𝖾 𝖰𝗎𝖾𝗎𝖾𝖽 𝖫𝗂𝗌𝗍 ."
 queue_8 : "<b>{0} 𝖯𝗅𝖺𝗒𝖾𝗋</b>\n\n🎄 <b>𝖲𝗍𝗋𝖾𝖺𝗆𝗂𝗇𝗀 :</b> {1}\n\n🔗 <b>𝖲𝗍𝗋𝖾𝖺𝗆 𝖳𝗒𝗉𝖾 :</b> {2}\n🥀 <b> 𝖱𝖾𝗊𝗎𝖾𝗌𝗍𝖾𝖽 𝖡𝗒 :</b> {3}\n{4}"
 
 
-stream_1: "<blockquote expandable><b>✯ Shraddha Streaming</b><blockquote>\n<blockquote expandable><\n\n✯ Title: <a href={0}>{1}</a>\n✯ Duration: {2} minutes\n✯ Requested By: {3}</blockquote>"
-stream_2: "<blockquote expandable><b>✯ Shraddha Streaming</b><blockquote><\n<blockquote expandable>\n\n✯ Title: <a href={0}>{1}</a>\n✯ Duration: {2} minutes\n✯ Requested By: {3}</blockquote>"
+stream_1: "<blockquote expandable><b>▣ Shraddha Streaming</b>\n\n▣ Title: <a href={0}>{1}</a>\n▣ Duration: {2} minutes\n▣ Requested By: {3}</blockquote>"
+stream_2: "<blockquote expandable><b>▣ Shraddha Streaming</b>\n\n▣ Title: <a href={0}>{1}</a>\n▣ Duration: {2} minutes\n▣ Requested By: {3}</blockquote>"
 
 
 CLOSE_BUTTON  : "𝑪𝒍𝒐𝒔𝒆"
